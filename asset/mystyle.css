@@ -25,6 +25,11 @@ h1 {
   padding: 0;
   margin-bottom: 40px;
 }
+.authors .conference-tagline {
+  font-size: 32px;
+  font-weight: 700;
+  margin: 16px 0 0;
+}
 .school {
   color: #222;
   font-size: 20px;
